@@ -1,7 +1,7 @@
 # DeepLearning
 ## 1. Basics : Studying for basic ML/DL frameworks
-    - [tensorflow](https://github.com/ShSeanLee/ML-DL/tree/master/1.%20Basics/tensorflow)
-    - [torch](https://github.com/ShSeanLee/ML-DL/tree/master/1.%20Basics/torch)
+    - tensorflow
+    - torch
     - Scikit Learn
         - TMDB 활용 영화 추천 서비스 구현
             1. Demographic Filtering (인구통계학적 필터링)
